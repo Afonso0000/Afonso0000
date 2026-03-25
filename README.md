@@ -1,5 +1,8 @@
 ## Hi there 👋
+Olá, eu sou o Afonso Pereira
+Sou estudante de GPSI (Gestão e Programação de Sistemas Informáticos) com interesse na área da tecnologia e desenvolvimento de software. Estou a desenvolver competências em programação, redes e ferramentas digitais, com foco no crescimento profissional.
 
+🚀 Projetos 📌 Sistema de Gestão 🌐 Website 📚 Atualmente a aprender 🎯 Objetivos Tecnologias Python HTML, CSS Git e GitHub Bases de dados (MySQL) Desenvolvido em Python Permite gerir dados de forma simples e eficiente Criado com HTML e CSS Layout simples e responsivo JavaScript Desenvolvimento Web APIs Tornar-me programador Trabalhar na área da tecnologia Participar em projetos reais 📫 Contacto Email: (a11617@aemaximinos.edu.pt) GitHub: (https://github.com/Afonso0000)
 <!--
 **Afonso0000/Afonso0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
